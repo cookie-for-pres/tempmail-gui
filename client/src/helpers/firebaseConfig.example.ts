@@ -1,3 +1,5 @@
+// rename this file to firebaseConfig.ts and add your firebase config
+
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
