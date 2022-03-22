@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
+
+:root {
+  --dark: #1A1B1E;
+  --dark-100: transparent;
+}
+
+body {
+  background-color: var(--dark);
+  /* color: #fff; */
+  font-family: "system-ui", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0px;
+}
+
+.border {
+  border: 1px solid var(--dark);
+}
