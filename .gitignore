@@ -3,6 +3,7 @@
 dist/
 release-builds/
 build/
+firebaseConfig.ts
 .netflify/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
